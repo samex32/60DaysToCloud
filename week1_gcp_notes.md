@@ -14,3 +14,9 @@
 - Region: us-south1(Dallas)
 - Uploaded first object.
 
+## Day 9: Static website
+- Created index.html.
+- Disabled public Access Prevention.
+- Granted 'Storage Object Viewer' to 'allUsers'.
+- Website URL: https://storage.googleapis.com/cloud-roadmap-lab-samex/index.html
+
