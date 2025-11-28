@@ -20,3 +20,9 @@
 - Granted 'Storage Object Viewer' to 'allUsers'.
 - Website URL: https://storage.googleapis.com/cloud-roadmap-lab-samex/index.html
 
+## Day 10: DNS & Load Balancing Concepts
+- Analyzed HTTP headers using curl.
+- CNAME: Points a domain name to another domain name (used for Buckets).
+- Load Balancer: Distributes traffic across multiple servers to prevent crashing.
+- CDN: Caches content closer to the user to reduce latency.
+
