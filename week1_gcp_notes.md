@@ -26,3 +26,9 @@
 - Load Balancer: Distributes traffic across multiple servers to prevent crashing.
 - CDN: Caches content closer to the user to reduce latency.
 
+
+## Day 11: Cloud Shell & CLI
+- Used Cloud Shell (Ephemeral Linux VM in browser).
+- Command: `gcloud auth list` (Check user).
+- Command: `gcloud config set project <id>` (Set workspace).
+- Command: `gcloud storage buckets create gs://<name>` (Create resource).
