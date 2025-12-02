@@ -51,3 +51,14 @@ This week focused on setting up the Google Cloud environment, securing it with b
 - IAM Basic Permissions (Storage Viewer).
 - Cloud Shell & gcloud SDK.
 - Markdown Documentation.
+
+## Day 12:** Deployed a serverless website on Google Cloud Storage.
+
+## Accomplishment
+- **IAM:** Configured permissions for `allUsers`.
+- **Storage:** Managed Standard Storage Buckets.
+- **Networking:** Understood DNS, CDN, and Load Balancing concepts.
+- **CLI:** Mastered `gcloud storage` commands.
+- **Cost:** Set up Billing Budgets to prevent overspending.
+
+**Next Steps:** Week 2 - Compute Engine.
